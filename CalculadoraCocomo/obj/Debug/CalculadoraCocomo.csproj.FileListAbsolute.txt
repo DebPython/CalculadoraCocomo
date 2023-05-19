@@ -1,0 +1,9 @@
+D:\c#2023\CalculadoraCocomo\CalculadoraCocomo\bin\Debug\CalculadoraCocomo.exe.config
+D:\c#2023\CalculadoraCocomo\CalculadoraCocomo\bin\Debug\CalculadoraCocomo.exe
+D:\c#2023\CalculadoraCocomo\CalculadoraCocomo\bin\Debug\CalculadoraCocomo.pdb
+D:\c#2023\CalculadoraCocomo\CalculadoraCocomo\obj\Debug\CalculadoraCocomo.csprojResolveAssemblyReference.cache
+D:\c#2023\CalculadoraCocomo\CalculadoraCocomo\obj\Debug\CalculadoraCocomo.Form1.resources
+D:\c#2023\CalculadoraCocomo\CalculadoraCocomo\obj\Debug\CalculadoraCocomo.Properties.Resources.resources
+D:\c#2023\CalculadoraCocomo\CalculadoraCocomo\obj\Debug\CalculadoraCocomo.csproj.GenerateResource.Cache
+D:\c#2023\CalculadoraCocomo\CalculadoraCocomo\obj\Debug\CalculadoraCocomo.exe
+D:\c#2023\CalculadoraCocomo\CalculadoraCocomo\obj\Debug\CalculadoraCocomo.pdb
